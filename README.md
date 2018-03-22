@@ -1,1 +1,3 @@
 # VideoStitching
+
+Sherry Qi
